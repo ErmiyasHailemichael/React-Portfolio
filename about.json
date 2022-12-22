@@ -1,6 +1,7 @@
 {
-    "name": "Bob Smith",
-    "email": "Bob@BobSmith.dev",
-    "headshot": "http://www.imgur.com/pictureofproject.png",
-    "bio": "Bob Smith graduated from General Assembly in 2017. Afterwords, he went to work for XYZ Technologies where he maintained a full stack application using Meteor and Ember. He also recently started started learning Prolog, cause why not waste time."
-  }
+  "name": "Ermiyas Hailemichael",
+  "email": "hailermiyas@gmail.com",
+  "github": "https://github.com/ErmiyasHailemichael", 
+  "headshot": "https://imgur.com/v3i1B0A",
+  "bio": "As a software engineer, you have a strong skill set in various programming languages, including HTML, CSS, Python, Java, and JavaScript, as well as experience with libraries and frameworks such as React, Bootstrap, NodeJS, and Express. You are also proficient in using databases like MongoDB and have experience with tools like JSON API, MERN stack, Postman, and Git/GitHub. In addition, you are proficient in a variety of enterprise software, including Google Suite, Microsoft Office, Slack, Zoom, and Adobe Suite. You are also fluent in Amharic and have strong communication skills. Your professional experience includes completing a software engineering immersive program at General Assembly, where you developed a portfolio of individual and group projects using Git/GitHub, Heroku, and Netlify. You have also worked as a coding instructor, where you prepared and delivered lessons to kids and provided feedback on their progress. You have additional professional experience as a service technician and sales associate. You are currently pursuing an associate's degree in computer science at Seattle Central College."
+}
