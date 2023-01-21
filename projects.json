@@ -1,14 +1,20 @@
 [
   {
-    "name": "project1",
+    "name": "project 1",
     "live": "https://app.herokuapp.com/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "git": "https://github.com/ErmiyasHailemichael",
+    "image": "https://i.imgur.com/ntL6QhE.png"
   },
   {
-    "name": "project2",
+    "name": "project 2",
     "live": "https://app.netlify.app/whatever",
-    "git": "http://www.github.com/username/reponame",
-    "image": "http://www.imgur.com/pictureofproject.png"
+    "git": "https://github.com/ErmiyasHailemichael",
+    "image": "https://i.imgur.com/ntL6QhE.png"
+  },
+  {
+    "name": "project 3",
+    "live": "https://app.netlify.app/whatever",
+    "git": "https://github.com/ErmiyasHailemichael",
+    "image": "https://i.imgur.com/LkwWQ1g.png"
   }
 ]
